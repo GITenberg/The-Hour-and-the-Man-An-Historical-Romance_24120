@@ -1,0 +1,32 @@
+_repo: The-Hour-and-the-Man-An-Historical-Romance_24120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+description: ''
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Revolutionaries -- Fiction'
+- !lcsh 'Toussaint Louverture, 1743?-1803'
+- !lcsh 'Haiti -- History -- Revolution, 1791-1804 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Generals -- Fiction'
+- !lcsh 'Biographical fiction'
+title: The Hour and the Man, An Historical Romance
+url: http://www.gutenberg.org/ebooks/24120
