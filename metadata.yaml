@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25319
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24120#The-Hour-and-the-Man-An-Historical-Romance
 gutenberg_issued: '2008-01-31'
 gutenberg_type: Text
 identifiers:
